@@ -1,0 +1,17 @@
+{
+  "name": "unit_tests_c7",
+  "version": "1.0.0",
+  "description": "Unit Tests C7",
+  "main": "definePrime.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Polina",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
